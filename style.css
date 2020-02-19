@@ -309,7 +309,7 @@ display: block;
   .gallery-cell {
     width: 100%;
     height: 900px;
-    background-image: url(./img/img1.jpg);
+    background-image: url(img/img1.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -319,7 +319,7 @@ display: block;
   .gallery-cell1 {
     width: 100%;
     height: 900px;
-    background-image: url(./img/img2.jpg);
+    background-image: url(img/img2.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -422,7 +422,7 @@ padding: 1em;
     font-family: Georgia;
     display: flex;
     padding-left: 10%;
-    background-image: url(./img/ID3.jpg);
+    background-image: url(img/ID3.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -435,7 +435,7 @@ padding: 1em;
     height: 780px;
     font-family: Georgia;
     padding-left: 10%;
-    background-image: url(./img/ID3.jpg);
+    background-image: url(img/ID3.jpg);
     background-size: cover;
     background-position: right;
     padding: 1em;
@@ -454,7 +454,7 @@ padding: 1em;
   .gallery-cell2 {
     width: 100%;
     height: 600px;
-        background-image: url(./img/ID1.jpg);
+        background-image: url(img/ID1.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -464,7 +464,7 @@ padding: 1em;
   .gallery-cell3 {
     width: 100%;
     height: 600px;
-    background-image: url(./img/ID2.jpg);
+    background-image: url(img/ID2.jpg);
     counter-increment: gallery-cell;
     background-repeat: no-repeat;
     margin: auto;
@@ -481,7 +481,7 @@ padding: 1em;
   width: 100%;
   height: auto;
   color: #fff;
-  background-image: url(./img/ID2.jpg);
+  background-image: url(img/ID2.jpg);
   counter-increment: gallery-cell;
   background-repeat: no-repeat;
   margin: auto;
@@ -505,7 +505,7 @@ padding: 1em;
     height: 800px;
     font-family: Georgia;
     padding: 0em;
-    background-image: url(./img/ID5.jpg);
+    background-image: url(img/ID5.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -547,7 +547,7 @@ padding: 1em;
   .section9{
     font-family: Georgia;
     padding: 1em;
-    background-image: url(./img/b-4-1030x581-1.jpg);
+    background-image: url(img/b-4-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -555,7 +555,7 @@ padding: 1em;
   .section10{
     font-family: Georgia;
     display: grid; 
-    background-image: url(./img/b-1-1030x581-1.jpg);
+    background-image: url(img/b-1-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
  
@@ -564,14 +564,14 @@ padding: 1em;
   .desktop-section10{
     font-family: Georgia;
     display: flex; 
-    background-image: url(./img/b-1-1030x581-1.jpg);
+    background-image: url(img/b-1-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .mobile-section10 {
     display: none;
-    background-image: url(./img/b-1-1030x581-1.jpg);
+    background-image: url(img/b-1-1030x581-1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1em;
