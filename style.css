@@ -1,6 +1,9 @@
 
 
 @media only screen and (max-width: 600px) {
+  .html .body{
+    max-width: 100%;
+  }
   .section1-desktop {
     max-width: 100%;
     font-size: 0.8em;
@@ -69,6 +72,10 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (max-width: 768px) {
+  .html .body{
+    max-width: 100%;
+  }
+
   .section1-desktop {
     max-width: 100%;
     font-size: 0.8em;
@@ -133,6 +140,10 @@
 }
 
 @media only screen and (max-width: 400px) {
+  .html .body{
+    max-width: 100%;
+  }
+
   .section1-desktop {
     max-width: 100%;
     font-size: 0.8em;
@@ -196,6 +207,10 @@
 }
 
 @media screen and (max-width: 768px) {
+  .html .body{
+    max-width: 100%;
+  }
+  
   .section1-desktop {
     max-width: 100%;
     font-size: 0.8em;
@@ -264,6 +279,7 @@ display: block;
 
 
 #body , html {
+  max-width: 100%;
     position: absolute;
     font-family: Georgia;
     font-size: 19px;
